@@ -111,6 +111,20 @@ Porque no se agrega la deuda a proveedores ?**
 Las deudas sin coste incluyen:
 ❌ Deudas con proveedores
 ❌ Acreedores comerciales
-
-
 "
+
+### ***Punto muerto o de equilibrio***
+Es el punto de las ventas donde se empienzan a obtener resultados, incluye:
+Costes fijos: Gastos que no dependen de la cantidad producida, ejemplo: Alquiler, sueldo, luz
+Costes variables por unidad: Gastos que cambian por producción.
+Precio de venta por unidad
+
+Responde a:
+" cuántas unidades o cuánto dinero necesitas generar para que tu negocio sea rentable."
+
+Formulas:
+> Punto muerto por unidad: Costes fijos / (Precio venta p.u. - Costes variables p.u.)
+
+ Unidades necesarias para alcanzar un beneficio deseado 
+
+> Unidades necesarias: (Costes fijo+ Beneficio deseado) / (Precio venta p.u. - coste variable p.u.)
